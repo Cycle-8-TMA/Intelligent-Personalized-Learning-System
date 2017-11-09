@@ -5,6 +5,9 @@
         "This file is @generated automatically"
     ],
     "content-hash": "751fc6623b264b33856167019b391053",
+    "require": {
+      "php": "^5.6.5"
+    },
     "packages": [],
     "packages-dev": [
         {
